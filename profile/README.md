@@ -1,2 +1,2 @@
-# .github
-Vibe coded Rust applications
+# Vibe coded Rust applications
+
